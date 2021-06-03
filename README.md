@@ -33,7 +33,7 @@ Please learn more about that Extensions and Library.
 \*Change the Server Key on every controller with your own.
 
 ```sh
-$params = array('server_key' => 'YOUR_CLIENT_KEY', 'production' => false);
+$params = array('server_key' => 'YOUR_SERVER_KEY', 'production' => false);
 ```
 
 \*To recieve callback from Midtrans. Change this url endpoint. Settings -> Configuration
